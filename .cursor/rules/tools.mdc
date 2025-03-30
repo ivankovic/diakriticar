@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Python
+
+For python, use uv as a package and environment manager and use unittest for unit tests.
+
+# TypeScript, JavaScript
+
+Use bun for TypeScript and JavaScript.

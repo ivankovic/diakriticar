@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Write robust code
+
+Write defensive code.
+
+# Write tests
+
+Always write tests for all code you add or edit.
